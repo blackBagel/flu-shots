@@ -1,0 +1,5 @@
+[] Add EDA like in the submission blog
+[] Consider using the scoring code from the mlops model
+[] Add CICD 
+    [] with deepchecks?
+[] Go over the notes and make them outsider readable
